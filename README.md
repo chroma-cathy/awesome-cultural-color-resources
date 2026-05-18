@@ -22,6 +22,11 @@ This list focuses on practical color resources that help designers and developer
 - [Zhongguose](http://zhongguose.com/) - Widely referenced Chinese traditional color browsing site.
 - [日本の伝統色](https://www.colordic.org/w/) - Japanese traditional color dictionary with named swatches and hex values.
 - [Color Lisa](https://colorlisa.com/) - Color palettes inspired by famous artists and artworks.
+- [ColorArchive Cultural Palettes](https://colorarchive.org/regions/) - Regional and cultural color palette references with design-context notes.
+- [Dictionary of Colour Combinations](https://github.com/mattdesl/dictionary-of-colour-combinations) - JSON dataset of Sanzo Wada color combinations with RGB, Lab, and hex values.
+- [Iranian Colors](https://github.com/nafasebra/iranian-colors) - Color palette inspired by Iran's nature, architecture, food, and crafts.
+- [Hua Mei](https://github.com/DingDean/hua-mei) - Chinese traditional colors packaged for Tailwind CSS.
+- [Pigments](https://github.com/lgienapp/pigments) - Accessible digital color system rooted in traditional artistic pigments, exported to many formats.
 
 ## Design Tokens and Color Systems
 
